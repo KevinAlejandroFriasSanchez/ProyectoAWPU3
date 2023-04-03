@@ -1,0 +1,9 @@
+{
+    "short_name": "Pagina1",
+    "name": "Creando Pagina1",
+    
+    "start_url": "./index.html",
+    "display": "standalone",
+    "scope": "./",
+    "descripcion": "Ojala funcione"
+}
